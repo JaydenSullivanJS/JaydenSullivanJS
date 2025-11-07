@@ -7,7 +7,6 @@ Hello! My name is Jayden Sullivan, and I am from the United Kingdom. I am an asp
 # 📊 GitHub Stats:
 ![JaydenSullivanJS's Stats](https://github-readme-stats.vercel.app/api?username=JaydenSullivanJS&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![JaydenSullivanJS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaydenSullivanJS&theme=dracula&hide_border=true)
-![JaydenSullivanJS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenSullivanJS&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JaydenSullivanJS&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
